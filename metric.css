@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.hero {
+    background: #6943fe;
+    color: white;
+    padding: 30px;
+    height:600px;
+}
+
+.main {
+    background: #1F2937;
+    padding: 10px;
+
+}
+
+.section {
+    background: #273549;
+    padding: 5px;
+    margin:8px;
+}
+
+.title {
+    color:#CCC1FF;
+}
+
+p {
+    color:#fff
+}
